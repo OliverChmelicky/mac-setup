@@ -15,6 +15,10 @@ git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/z
 #download & install iTerm2
 #https://iterm2.com/
 # configure Floaring window and hotkeys https://iterm2.com/documentation-hotkey.html
+# Command+, keys->Hotkey->Show/hide all ... 
+# Profiles -> Windoiw -> Space:All Spaces Style: Full-Width Top of The Screen
+# Appearance -> General -> Exclude from Dock and ....
+# Getting to settings: Command + ,
 
 # download Golang from official site and follow the installation manual
 # download VS code from web and ready to go
